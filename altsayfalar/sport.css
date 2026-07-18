@@ -1,0 +1,67 @@
+
+.h1 {
+    background-color: #222831;
+    color: #EEEEEE;
+    border: #EEEEEE;
+    font-family: sans-serif;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 2px;
+    margin-top: 0%;
+    position: sticky;
+    font-size: 50px;
+
+}
+
+.sportkart{
+    display: flex;
+    align-items: center;   /* Yazıyı resmin ortasına getirir */
+    gap: 60px;             /* Resim ile yazı arası */
+    margin-left: 35%;
+}
+
+.sportfoto{
+    width: 250px;          /* % yerine sabit değer kullan */
+}
+
+.sportyazi{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin: 0;
+    font-size: 50px;
+    color: #EEEEEE;
+    text-decoration: none;
+}
+
+.sportaciklama{
+    color: #EEEEEE;
+    font-size: 20px;
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin: auto;
+    
+}
+
+
+.suvtable{
+    border: #393E46;
+    border-radius: 15px;
+    border-width: 5px;
+    color: #EEEEEE;
+    border-style: solid;
+    text-align: center;
+    margin: 0 auto;
+    column-gap: 10px;
+    font-size: 35px;
+    padding: 10px;
+
+    
+
+}
+
+.foto{
+    width: 300px;
+}
