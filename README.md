@@ -1,1 +1,1 @@
-
+This is the second HTML site that I made. It's really basic but I think it's good. I didn't finish the whole thing because I already understood the logic and it was a good experience. Since the rest of the project would just be repeating the same code, I decided to leave it as it is and move on.
